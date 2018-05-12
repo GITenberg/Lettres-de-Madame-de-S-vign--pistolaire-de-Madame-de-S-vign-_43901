@@ -1,0 +1,36 @@
+_repo: Lettres-de-Madame-de-S-vign--pistolaire-de-Madame-de-S-vign-_43901
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43901-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sévigné, Marie de Rabutin-Chantal, marquise de
+    aliases:
+    - De Sévigné, Marie de Rabutin-Chantal, marquise
+    - De Rabutin-Chantal, Marie, marquise de Sévigné
+    - Sevigne, Marie de Rabutin-Chantal, marquise de
+    - Rabutin-Chantal, Marie de, marquise de Sévigné
+    birthdate: 1626
+    deathdate: 1696
+    gutenberg_agent_id: '42463'
+    url: http://www.gutenberg.org/2009/agents/42463
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Femmes
+gutenberg_issued: '2013-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43901'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 17th century -- Correspondence'
+- !lcsh 'Sévigné, Marie de Rabutin-Chantal, marquise de, 1626-1696 -- Correspondence'
+- !lcc 'PQ'
+title: "Lettres de Madame de Sévigné\r\nPrécédées d'une notice sur sa vie et du traité\
+  \ sur le style épistolaire de Madame de Sévigné"
+url: http://www.gutenberg.org/ebooks/43901
