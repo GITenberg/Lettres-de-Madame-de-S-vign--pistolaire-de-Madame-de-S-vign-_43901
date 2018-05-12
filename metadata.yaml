@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42463'
     url: http://www.gutenberg.org/2009/agents/42463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43901#Lettres-de-Madame-de-S-vign--pistolaire-de-Madame-de-S-vign-
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Femmes
